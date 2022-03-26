@@ -1,13 +1,13 @@
 {
-  "name": "forkify",
+  "name": "guess-my-number",
   "version": "1.0.0",
-  "description": "Recipe application",
+  "description": "Guess number game",
   "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist"
   },
-  "author": "Jonas Schedtmann",
+  "author": "Srdjan Lakic",
   "license": "ISC",
   "devDependencies": {
     "parcel": "^2.0.0-beta.1",
